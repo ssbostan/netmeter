@@ -1,3 +1,7 @@
+
+# Copyright (c) 2020, Saeid Bostandoust
+# All rights reserved.
+
 from time import sleep
 
 def getNetInfo(iface, ctype):

@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# Copyright (c) 2020, Saeid Bostandoust
+# All rights reserved.
+
 import sys
 import netmeter
 
