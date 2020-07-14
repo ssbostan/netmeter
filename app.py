@@ -14,7 +14,7 @@ try:
             RX=netmeter.getRX(sys.argv[1])
             TX=netmeter.getTX(sys.argv[1])
             print(f"RX: {RX[0]//1024} KB/s, {RX[1]} PKT/s | TX: {TX[0]//1024} KB/s, {TX[1]} PKT/s")
-            
+
 except(IOError, PermissionError):
     print("Error...")
 except KeyboardInterrupt:
