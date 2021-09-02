@@ -1,5 +1,7 @@
 # netmeter
 
+![Visits Badge](https://badges.pufler.dev/visits/ssbostan/netmeter)
+
 If you are looking for a tool to monitor your network interfaces, here you are.
 
 See [netmeter-exporter](https://github.com/ssbostan/netmeter-exporter) to export Prometheus metrics.
