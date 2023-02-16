@@ -6,4 +6,4 @@ Jinja2==3.0.1
 MarkupSafe==2.0.1
 prettytable==2.1.0
 wcwidth==0.2.5
-Werkzeug==2.0.1
+Werkzeug==2.2.3
